@@ -1,10 +1,7 @@
 # Blog(THM)
 
 
-Correct — for GitHub and for technical reviewers, you *do* need the commands.
-Below is a **clean, recruiter-oriented but technically complete write-up**, structured, readable, and professional.
 
----
 
 # WordPress Compromise & Linux Privilege Escalation
 
