@@ -63,14 +63,5 @@ This lab reflects practical offensive security capabilities aligned with real-wo
 * Understanding of Linux privilege models
 * Ability to chain multiple vulnerabilities into full compromise
 
----
-
-# GitHub About Section (Short Version)
-
-Offensive Security practitioner documenting hands-on labs and real-world attack simulations.
-
-Focused on structured methodology, exploit analysis, and Linux privilege escalation.
-
-Demonstrating practical skills in enumeration, credential attacks, RCE exploitation, and full system compromise.
 
 
