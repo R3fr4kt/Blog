@@ -214,14 +214,7 @@ This engagement demonstrates the ability to:
 
 The attack required combining web exploitation with local privilege escalation techniques, reflecting real-world penetration testing scenarios.
 
----
 
-If you'd like, I can now:
-
-* Optimize this specifically for OSCP-style reporting
-* Make a slightly shorter version for GitHub readability
-* Add a professional executive summary header section
-* Refactor it into your standard reusable write-up template for all future labs
 
 
 
